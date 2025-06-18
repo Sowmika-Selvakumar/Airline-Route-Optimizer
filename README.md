@@ -11,5 +11,6 @@ A Flask-based web application that computes and visualizes the shortest flight r
 ## 🛠 Technologies Used
 Python, Flask, Pandas, NetworkX, Plotly, HTML/CSS/JS
 
-## 📁 Folder Structure
+
+
 
